@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/timtrack/precache-manifest.b9b433a88e39ba37664c84929d8831d6.js"
+  "/timtrack/precache-manifest.edf4287d4ec59533459781e2b79070a6.js"
 );
 
 self.addEventListener('message', (event) => {

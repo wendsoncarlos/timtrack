@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/timtrack/static/css/main.6895c390.chunk.css",
-    "main.js": "/timtrack/static/js/main.710f9954.chunk.js",
-    "main.js.map": "/timtrack/static/js/main.710f9954.chunk.js.map",
+    "main.js": "/timtrack/static/js/main.2c48b286.chunk.js",
+    "main.js.map": "/timtrack/static/js/main.2c48b286.chunk.js.map",
     "runtime-main.js": "/timtrack/static/js/runtime-main.2f8c0862.js",
     "runtime-main.js.map": "/timtrack/static/js/runtime-main.2f8c0862.js.map",
-    "static/js/2.977c832e.chunk.js": "/timtrack/static/js/2.977c832e.chunk.js",
-    "static/js/2.977c832e.chunk.js.map": "/timtrack/static/js/2.977c832e.chunk.js.map",
+    "static/js/2.802689ac.chunk.js": "/timtrack/static/js/2.802689ac.chunk.js",
+    "static/js/2.802689ac.chunk.js.map": "/timtrack/static/js/2.802689ac.chunk.js.map",
     "index.html": "/timtrack/index.html",
-    "precache-manifest.b9b433a88e39ba37664c84929d8831d6.js": "/timtrack/precache-manifest.b9b433a88e39ba37664c84929d8831d6.js",
+    "precache-manifest.edf4287d4ec59533459781e2b79070a6.js": "/timtrack/precache-manifest.edf4287d4ec59533459781e2b79070a6.js",
     "service-worker.js": "/timtrack/service-worker.js",
     "static/css/main.6895c390.chunk.css.map": "/timtrack/static/css/main.6895c390.chunk.css.map",
-    "static/js/2.977c832e.chunk.js.LICENSE.txt": "/timtrack/static/js/2.977c832e.chunk.js.LICENSE.txt",
+    "static/js/2.802689ac.chunk.js.LICENSE.txt": "/timtrack/static/js/2.802689ac.chunk.js.LICENSE.txt",
     "static/media/animal.png": "/timtrack/static/media/animal.79026f0b.png",
     "static/media/Tela.css": "/timtrack/static/media/peixe.cb76117a.png",
     "static/media/texto1.png": "/timtrack/static/media/texto1.80b63538.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2f8c0862.js",
-    "static/js/2.977c832e.chunk.js",
+    "static/js/2.802689ac.chunk.js",
     "static/css/main.6895c390.chunk.css",
-    "static/js/main.710f9954.chunk.js"
+    "static/js/main.2c48b286.chunk.js"
   ]
 }
